@@ -1,0 +1,7 @@
+# This file will be read by resetprop
+# property to latch unsignaled buffer
+debug.sf.latch_unsignaled=1
+persist.sys.scrollingcache=4
+debug.sf.high_fps_late_app_phase_offset_ns=1000000
+ro.hwui.text_large_cache_height=1024
+ro.HOME_APP_ADJ=1
