@@ -124,8 +124,8 @@ REPLACE="
 print_modname() {
   ui_print "*****************************"
   ui_print "* Scrolling Lag Fix (Alpha) *"
-  ui_print "*  - Test For Android 10 -  *"
-  ui_print "*  Module Made  By timlu85  *"
+  ui_print "*   - For 6T OOS10 ONLY -   *"
+  ui_print "*  Module Made By timlu85^  *"
   ui_print "*****************************"
 }
 

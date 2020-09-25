@@ -6,10 +6,11 @@ This Repo is trying to reduce or solve the UI Lag Problem and Some PIP Error, no
 ## Requirements
 * Oneplus 6T
 * OxygenOS 10
-* Magisk 20+
+* Magisk v20+
 ## Changelog
-* v0.2 Initial Release
+* v0.2 - Initial Release
+* v0.3 - Update GPU Driver to v415 (from Xperia S845 Device), More configuration tweaks to SurfaceFlinger
 ## Version Status
-* Alpha (Update time 2020/09/22)
+* Alpha (Update time 2020/09/25)
 ## Already Tested
 * Stock OOS

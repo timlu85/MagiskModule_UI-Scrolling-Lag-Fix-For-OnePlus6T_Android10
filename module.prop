@@ -1,6 +1,6 @@
 id=scrollinguilagfix6t
-name=UI Scrolling Lag Fix For 6T (Alpha)
-version=v0.2
-versionCode=2
+name=UI Scrolling Lag Fix For OnePlus6T (Android 10)
+version=v0.3
+versionCode=03
 author=timlu85
-description=Try to Fix the UI LAG When Your 6T is on Android 10.
+description=Trying to REDUCE or SOLVE the UI Lag Problem on 6T (OOS10) AND addition update GPU Driver.
